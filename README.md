@@ -1,2 +1,3 @@
 # news_task
-Interview RightQ Infotech
+
+API Test.
